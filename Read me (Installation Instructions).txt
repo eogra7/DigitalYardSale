@@ -1,0 +1,13 @@
+Williamsville East High School
+Mobile Application Development 2017
+Evan Ogra, Brian Suk, Nikhil Gupta
+Contact: eogra99@gmail.com
+
+Instructions for running the application:
+1. Download the DigitalYardSale.apk file to an Android phone (via USB or other)
+2. Locate the file on the phone using File Explorer and install
+
+The source code is included in ..\Project and Source Code\app\src\main\java\com\evanogra\mobileappdev2017\
+The Android Studio project is also included but the IDE is difficult to set up as it has to be configured to the specific version of Android.
+
+If there are any difficulties in running the application, please contact me at eogra99@gmail.com
